@@ -1,0 +1,114 @@
+
+img.T{
+    width: 143px;
+    height: 128px;
+    border-radius: 50%;
+    position: relative;
+    left: 13px;
+}
+img.Q{
+    width: 117px;
+    height: 117px;
+    border-radius: 31%;
+    position: relative;
+    left: -10px;
+}
+div.TQ {
+    display: flex;
+    height: 140px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2a7fa5;
+    position: relative;
+    
+}
+h1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -108px;
+    font-family:fantasy,fangsong,emoji,ui-serif;
+    color: aliceblue;
+    letter-spacing: 2px;
+    width: 93%;
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+    position: relative;
+    top: -132px;
+    left: 30px;
+    letter-spacing: 2px;
+    color: aliceblue;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 94%;
+    font-size: 12px;
+}
+hr.hra{
+    position: relative;
+    top: -98px;
+}
+p.I{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    font-size: 21px;
+    position: relative;
+    top: -38px;
+}
+p.L{
+    font-size: 19px;
+    position: relative;
+    top: -20px;
+}
+p.p{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    font-size: 24px;
+    position: relative;
+    top: 72px; 
+}
+div.Foto{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 118px;
+}
+
+img{
+    width: 110px;
+    height: 110px;
+}
+div.label{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    top: 121px;
+}
